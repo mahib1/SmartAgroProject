@@ -1,51 +1,14 @@
-## LaTeX Report – [Project Title]
+# Smart Agriculture Project
 
-This repository contains the LaTeX source files and the final compiled PDF for the **[Project Title]** report.
+This project presents a smart agriculture system that monitors environmental conditions and automates irrigation and ventilation.  
+It uses a **DHT22** sensor to track temperature and humidity, a **custom-coded soil moisture sensor** (mimicking the YL-69), and two **relays** to control a **water pump** and a **fan**. The system responds dynamically to the surrounding temperature and soil moisture levels.
 
-## 📄 Contents
+## 📄 Report
 
-- `main.tex` — Main LaTeX source file
-- `*.tex` — Additional LaTeX sections (if any)
-- `report.pdf` — Final compiled PDF
-- `images/` — Figures and diagrams used in the report
-- `README.md` — This file
+- View the compiled report: [`SmartAgroProject.pdf`](SmartAgroProject.pdf)
 
-## 🔗 Overleaf Links
+## 🔗 Project Links
 
-- 📖 **View-only Link (PDF preview):** [View on Overleaf](https://www.overleaf.com/read/your-view-only-id-here)
-- ✍️ **Editable Overleaf Project Link:** [Open Project](https://www.overleaf.com/project/your-project-id-here)
-
-> Replace the placeholder URLs above with your actual Overleaf links.
-
-## 🛠️ How to Compile
-
-If you want to compile this project locally, make sure you have a LaTeX distribution installed (e.g., TeX Live, MiKTeX) and run:
-
-```bash
-pdflatex main.tex
- SmartAgroProject
-# LaTeX Report – [Project Title]
-
-This repository contains the LaTeX source files and the final compiled PDF for the **[Project Title]** report.
-
-## 📄 Contents
-
-- `main.tex` — Main LaTeX source file
-- `*.tex` — Additional LaTeX sections (if any)
-- `report.pdf` — Final compiled PDF
-- `images/` — Figures and diagrams used in the report
-- `README.md` — This file
-
-## 🔗 Overleaf Links
-
-- 📖 **View-only Link (PDF preview):** [View on Overleaf](https://www.overleaf.com/read/your-view-only-id-here)
-- ✍️ **Editable Overleaf Project Link:** [Open Project](https://www.overleaf.com/project/your-project-id-here)
-
-> Replace the placeholder URLs above with your actual Overleaf links.
-
-## 🛠️ How to Compile
-
-If you want to compile this project locally, make sure you have a LaTeX distribution installed (e.g., TeX Live, MiKTeX) and run:
-
-```bash
-pdflatex main.tex
+- 📚 **Overleaf Report (view-only):** [https://www.overleaf.com/read/bzxrsprgzxkq#0e5e33](https://www.overleaf.com/read/bzxrsprgzxkq#0e5e33)
+- 🔧 **Wokwi Simulation:** [https://wokwi.com/projects/432429538689503233](https://wokwi.com/projects/432429538689503233)
+dflatex main.tex
