@@ -9,6 +9,5 @@ It uses a **DHT22** sensor to track temperature and humidity, a **custom-coded s
 
 ## 🔗 Project Links
 
-- 📚 **Overleaf Report (view-only):** [https://www.overleaf.com/read/bzxrsprgzxkq#0e5e33](https://www.overleaf.com/read/bzxrsprgzxkq#0e5e33)
-- 🔧 **Wokwi Simulation:** [https://wokwi.com/projects/432429538689503233](https://wokwi.com/projects/432429538689503233)
-dflatex main.tex
+- 📚 **Overleaf Report (view-only):** [Overleaf Project Link](https://www.overleaf.com/read/bzxrsprgzxkq#0e5e33)
+- 🔧 **Wokwi Simulation:** [Wokwi Project Link](https://wokwi.com/projects/432429538689503233)
